@@ -1,2 +1,3 @@
 # apnacollagedemo
-thus is my first git repository
+this is my first git repository
+Authou-Vedant-Kathiria
