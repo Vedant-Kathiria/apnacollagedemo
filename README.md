@@ -1,3 +1,4 @@
 # apnacollagedemo
 this is my first git repository
-Authou-Vedant-Kathiria
+<br>
+Author-Vedant-Kathiria
